@@ -51,3 +51,7 @@ a = ransom_note("ag a", "agb a")
 
 nums = [0, 1, 2, 4, 5, 7]
 range = summery_ranges(nums)"""
+
+
+def check(string):
+    return print(string)
